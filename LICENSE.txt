@@ -1,6 +1,7 @@
 PROPRIETARY SOFTWARE LICENSE
 
 Copyright (c) 2026 <owner>. All rights reserved.
+Made in Türkiye.
 
 1. GRANT
 No license, express or implied, is granted to any party other than
@@ -33,4 +34,4 @@ DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
 Any violation of these terms terminates all permissions immediately.
 
 7. GOVERNING LAW
-This license is governed by the laws of <jurisdiction>.
+This license is governed by the laws of the Republic of Türkiye.
