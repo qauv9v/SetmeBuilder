@@ -1,0 +1,36 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 <owner>. All rights reserved.
+
+1. GRANT
+No license, express or implied, is granted to any party other than
+the copyright holder. Access to this repository does not constitute
+a grant of any rights.
+
+2. RESTRICTIONS
+You may not:
+  a) copy, reproduce, or distribute the software or source code;
+  b) modify, adapt, translate, or create derivative works;
+  c) use the software for any commercial or non-commercial purpose;
+  d) sublicense, sell, rent, lease, or transfer the software;
+  e) reverse engineer, decompile, or disassemble the software.
+
+3. PERMITTED USE
+Viewing the repository and submitting bug reports via issues is
+permitted. No other use is authorized.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+6. TERMINATION
+Any violation of these terms terminates all permissions immediately.
+
+7. GOVERNING LAW
+This license is governed by the laws of <jurisdiction>.
